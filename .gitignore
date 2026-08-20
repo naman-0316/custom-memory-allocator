@@ -1,0 +1,4 @@
+build/
+build-sanitize/
+build-valgrind/
+compile_commands.json
